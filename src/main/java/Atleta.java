@@ -24,7 +24,7 @@ public class Atleta {
 
     @Override
     public String toString() {
-        return "Atleta{nome='" + nome + "', idade=" + idade + ", peso=" + peso + "kg}";
+        return "ATLETA: " + nome + ", IDADE: " + idade + ", PESO: " + peso + "kg";
     }
 
     @Override

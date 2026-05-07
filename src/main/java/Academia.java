@@ -6,7 +6,7 @@ public class Academia {
 
     public void matricularAtleta(Atleta a) throws Exception {
         if (a.getIdade() < 16) {
-            throw new Exception("Vixe! Atleta muito novo. Só aceitamos acima de 16 anos.");
+            throw new Exception("Vixe! " + a.getNome() + " você é muito novo. Só aceitamos acima de 16 anos.");
         }
         alunos.add(a);
         System.out.println("Atleta " + a.getNome() + " matriculado com sucesso!");

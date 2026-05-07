@@ -6,11 +6,11 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         try {
-            Atleta a1 = new Atleta("Tião", 25, 80.5);
+            Atleta a1 = new Atleta("Ayla", 30, 66.5);
             minhaAcademia.matricularAtleta(a1);
 
-            System.out.println("\nTentando matricular um aluno novo demais...");
-            Atleta a2 = new Atleta("Zezinho", 12, 40.0);
+            System.out.println("\nTentando matricular um novo aluno...");
+            Atleta a2 = new Atleta("Kauan", 12, 86.6);
             minhaAcademia.matricularAtleta(a2);
 
         } catch (Exception e) {
