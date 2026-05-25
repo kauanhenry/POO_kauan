@@ -2,8 +2,11 @@
 
 Repositósio criado para uso nas aulas de **Programação Orientada a Objeto (UFPB)**
 
-Há sistemas **simples** deste sistemas **comṕlexos** 
+----- **Sistemas criados:** -----
 
-**OBS:** Nem todos os sistemas são das aulas de POO
+Sistema de **Amigo Secreto** 
+Sistema de **Academia simples**
+Sistema de **Padaria**
+Sistema de **Estúdio de Tatuagens**  ---> em desenvolvimento
 
 ✉️ henry8kauan@gmail.com                                                     🇧🇷

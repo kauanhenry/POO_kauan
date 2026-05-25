@@ -2,9 +2,12 @@
 <module version="4">
   <component name="AdditionalModuleElements">
     <content url="file://$MODULE_DIR$" dumb="true">
-      <sourceFolder url="file://$MODULE_DIR$/src/main/SistemaAcademiaSimples/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/AmigoSecretoPOO" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/SistemaPadariaPOO/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/AmigoSecretoPOO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SistemaAcademiaSimplesPOO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SistemaAcademiaSimplesPOO/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SistemaPadariaPOO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SistemaPadariaPOO/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/StudioBasilio-POO" isTestSource="false" />
     </content>
   </component>
 </module>
