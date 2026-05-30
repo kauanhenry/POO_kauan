@@ -13,7 +13,7 @@ Sistema de **Academia simples**
 Sistema de **Padaria**
 
 
-Sistema de **Estúdio de Tatuagens**  ---> em desenvolvimento
+Sistema de **Estúdio de Tatuagens** 
 
 
 
