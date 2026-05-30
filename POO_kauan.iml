@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/SistemaAcademiaSimplesPOO/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/SistemaPadariaPOO" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/SistemaPadariaPOO/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SistemaStudioTattoPOO" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/StudioBasilio-POO" isTestSource="false" />
     </content>
   </component>
