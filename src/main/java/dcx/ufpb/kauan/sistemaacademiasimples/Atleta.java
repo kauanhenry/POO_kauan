@@ -1,3 +1,5 @@
+package dcx.ufpb.kauan.sistemaacademiasimples;
+
 import java.util.Objects;
 
 public class Atleta {

@@ -1,3 +1,5 @@
+package dcx.ufpb.kauan.amigosecreto;
+
 public class Amigao {
     private String nome;
     private String email;

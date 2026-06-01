@@ -1,3 +1,5 @@
+package dcx.ufpb.kauan.sistemapadaria;
+
 import java.util.Objects;
 
 public class Produto {
@@ -37,7 +39,7 @@ public class Produto {
 
     @Override
     public String toString() {
-        return "Produto{" + "nome: " + nome + '\'' + ", codigo: " + codigo + '\'' +
+        return "dcx.ufpb.kauan.sistemapadaria.Produto{" + "nome: " + nome + '\'' + ", codigo: " + codigo + '\'' +
                 ", perecivel: " + ehPerecivel + '}';
     }
 }

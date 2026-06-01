@@ -1,3 +1,5 @@
+package dcx.ufpb.kauan.sistemapadaria;
+
 import java.util.Collection;
 
 public interface SistemaPadaria {

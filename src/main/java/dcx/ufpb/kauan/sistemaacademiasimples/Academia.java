@@ -1,3 +1,5 @@
+package dcx.ufpb.kauan.sistemaacademiasimples;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,11 +11,11 @@ public class Academia {
             throw new Exception("Vixe! " + a.getNome() + " você é muito novo. Só aceitamos acima de 16 anos.");
         }
         alunos.add(a);
-        System.out.println("Atleta " + a.getNome() + " matriculado com sucesso!");
+        System.out.println("dcx.ufpb.kauan.sistemaacademiasimples.Atleta " + a.getNome() + " matriculado com sucesso!");
     }
 
     public void listarAlunos() {
-        System.out.println("\n--- Lista de Alunos da Academia ---");
+        System.out.println("\n--- Lista de Alunos da dcx.ufpb.kauan.sistemaacademiasimples.Academia ---");
         for (Atleta a : alunos) {
             System.out.println(a);
         }

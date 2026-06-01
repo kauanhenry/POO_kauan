@@ -1,3 +1,5 @@
+package dcx.ufpb.kauan.amigosecreto;
+
 public abstract class Mensagem {
     private final String texto;
     private final String emailRemetente;

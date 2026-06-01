@@ -1,3 +1,5 @@
+package dcx.ufpb.kauan.sistemastudiotatto;
+
 import java.util.Collection;
 import java.io.IOException;
 

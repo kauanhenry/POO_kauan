@@ -1,3 +1,5 @@
+package dcx.ufpb.kauan.amigosecreto;
+
 import java.util.List;
 
 public class Main3 {

@@ -1,3 +1,5 @@
+package dcx.ufpb.kauan.sistemaacademiasimples;
+
 import java.util.Scanner;
 
 public class Main {

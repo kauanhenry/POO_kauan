@@ -1,3 +1,5 @@
+package dcx.ufpb.kauan.amigosecreto;
+
 public class MensagemParaAlguem extends Mensagem {
     private final String emailDestinatario;
 
@@ -13,6 +15,6 @@ public class MensagemParaAlguem extends Mensagem {
     @Override
     public String getFormatadaParaEnvio() {
         String remetente = ehAnonima() ? "Anônimo" : getEmailRemetente();
-        return "Mensagem de " + remetente + " para " + emailDestinatario + ": " + getTexto();
+        return "dcx.ufpb.kauan.amigosecreto.Mensagem de " + remetente + " para " + emailDestinatario + ": " + getTexto();
     }
 }
