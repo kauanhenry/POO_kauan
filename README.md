@@ -1,6 +1,6 @@
 # POO_Kauan
 
-Repositósio criado para uso nas aulas de **Programação Orientada a Objeto (UFPB)**
+Repositósio criado para o uso nas aulas de **Programação Orientada a Objeto (UFPB)**
 
 ----- **Sistemas criados:** -----
 
