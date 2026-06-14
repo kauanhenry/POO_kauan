@@ -7,7 +7,7 @@ Repositósio criado para uso nas aulas de **Programação Orientada a Objeto (UF
 Sistema de **Amigo Secreto** 
 
 
-Sistema de **dcx.ufpb.kauan.sistemaacademiasimples.Academia simples**
+Sistema de **Academia simples**
 
 
 Sistema de **Padaria**
