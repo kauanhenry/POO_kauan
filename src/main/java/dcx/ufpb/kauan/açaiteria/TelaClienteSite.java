@@ -20,7 +20,7 @@ public class TelaClienteSite extends JFrame {
     public TelaClienteSite(PedidoService pedidoService) {
         this.pedidoService = pedidoService;
 
-        setTitle("Açai Mania - Cardápio Online & Delivery");
+        setTitle("Açai Mania - Cardápio Online");
         setSize(850, 700);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);
