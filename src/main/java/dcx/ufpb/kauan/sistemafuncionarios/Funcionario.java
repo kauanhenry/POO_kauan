@@ -12,7 +12,7 @@ public class Funcionario {
 
         this.nome = nome;
         this.cpf = cpf;
-        double.salario = salario;
+        this.salario = salario;
 
     }
 

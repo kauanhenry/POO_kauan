@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf8ab569-f5dd-48ea-b3ed-56f77a49eeb9" name="Changes" comment="Criação do novo sistema de açai">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/açaiteria/TelaClienteSite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO_kauan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/POO_kauan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/Amigao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/Amigao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/AmigoInexistenteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/AmigoInexistenteException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/AmigoJaExisteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/AmigoJaExisteException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/AmigoNaoSorteadoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/AmigoNaoSorteadoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/AmigoScretoMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/AmigoScretoMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/Mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/Mensagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/MensagemParaAlguem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/MensagemParaAlguem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/MensagemParaTodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/amigosecreto/MensagemParaTodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemaacademiasimples/Academia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemaacademiasimples/Academia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemaacademiasimples/Atleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemaacademiasimples/Atleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemaacademiasimples/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemaacademiasimples/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemafuncionarios/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemafuncionarios/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemafuncionarios/SistemaFuncionarioBomPrato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemafuncionarios/SistemaFuncionarioBomPrato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemafuncionarios/SistemaFuncionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemafuncionarios/SistemaFuncionarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemafuncionarios/tipoFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemafuncionarios/tipoFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemapadaria/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemapadaria/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemapadaria/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemapadaria/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemapadaria/SistemaPadaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemapadaria/SistemaPadaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemapadaria/SistemaPadariaDeKauan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemapadaria/SistemaPadariaDeKauan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemastudiotatto/AgendamentoInexistenteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemastudiotatto/AgendamentoInexistenteException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemastudiotatto/GerenciadorStudio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemastudiotatto/GerenciadorStudio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemastudiotatto/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemastudiotatto/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemastudiotatto/StudioTatto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemastudiotatto/StudioTatto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemastudiotatto/TatuagemAgendada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/sistemastudiotatto/TatuagemAgendada.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kauanhenry&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kauanhenry/POO_kauan.git&quot;,
+    &quot;accountId&quot;: &quot;f9a3d119-d94e-4c86-841b-3f0b4069de5d&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="5.45513079641015E-61" />
+      <entry key="MS500" value="8.85851721744292E-13" />
+      <entry key="S2" value="9.701530612473975E-4" />
+      <entry key="S5" value="0.0623355941588135" />
+      <entry key="S10" value="0.24967097179851222" />
+      <entry key="S30" value="0.6296872073627227" />
+      <entry key="S60" value="0.7971833076767757" />
+      <entry key="M2" value="1.0282789823574041" />
+      <entry key="M5" value="2.40638097882574" />
+      <entry key="M10" value="4.794477687303383" />
+      <entry key="M15" value="7.086808790472569" />
+      <entry key="M30" value="13.583314446710215" />
+      <entry key="H1" value="22.35350993960724" />
+      <entry key="H2" value="31.077565972269905" />
+      <entry key="H4" value="38.144905897941996" />
+      <entry key="D1" value="46.80867201252682" />
+      <entry key="W1" value="48.67537821578837" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000023893089565" />
+      <entry key="S60" value="1.0029008991819583" />
+      <entry key="M2" value="1.1142315740515119" />
+      <entry key="M5" value="2.1146773847739433" />
+      <entry key="M10" value="3.6084203726298076" />
+      <entry key="M15" value="4.620199292675098" />
+      <entry key="M30" value="6.243850873646318" />
+      <entry key="H1" value="7.582014978018482" />
+      <entry key="H2" value="8.844891932830453" />
+      <entry key="H4" value="10.000602967057048" />
+      <entry key="D1" value="11.578795237080344" />
+      <entry key="W1" value="11.93713540766382" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="6.946442314931688E-24" />
+      <entry key="MS500" value="2.3353527394424344E-5" />
+      <entry key="S2" value="0.06990538539940211" />
+      <entry key="S5" value="0.38746201257584356" />
+      <entry key="S10" value="0.7946508370157925" />
+      <entry key="S30" value="1.4296109901175342" />
+      <entry key="S60" value="1.6911455187563469" />
+      <entry key="M2" value="2.083820467700391" />
+      <entry key="M5" value="4.489549746352494" />
+      <entry key="M10" value="8.38007300186603" />
+      <entry key="M15" value="11.68768858319938" />
+      <entry key="M30" value="19.812439204614144" />
+      <entry key="H1" value="29.92465520239303" />
+      <entry key="H2" value="39.915017158303485" />
+      <entry key="H4" value="48.140890341116354" />
+      <entry key="D1" value="58.3865037763088" />
+      <entry key="W1" value="60.6123698977024" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DodguYIeSHBY4ogb1kmeRGHhWR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TelaAcaiMania.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TelaAcaiteria.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/usuario/IdeaProjects/POO_kauan/src/main/java/dcx/ufpb/kauan/açaiteria&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan/açaiteria" />
+      <recent name="$PROJECT_DIR$/src/main/SistemaPadariaSimples" />
+      <recent name="$PROJECT_DIR$/src/SistemaPadariaSimples" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asserts/img" />
+      <recent name="$PROJECT_DIR$/asserts" />
+      <recent name="$PROJECT_DIR$/src/main/java/dcx/ufpb/kauan" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Atualizações">
+      <option name="closed" value="true" />
+      <created>1778272507427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778272507428</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Atualizações">
+      <option name="closed" value="true" />
+      <created>1778272615029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778272615029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Atualizações">
+      <option name="closed" value="true" />
+      <created>1778272727440</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778272727440</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Atualizações">
+      <option name="closed" value="true" />
+      <created>1778272793498</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778272793498</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Atualizações">
+      <option name="closed" value="true" />
+      <created>1778274552546</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778274552546</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf8ab569-f5dd-48ea-b3ed-56f77a49eeb9" name="Changes" comment="Atualizações" />
+      <created>1778952489020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778952489020</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Amigo Secreto **(CRIAÇÃO)**">
+      <option name="closed" value="true" />
+      <created>1778962610824</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778962610827</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Atualizações">
+      <option name="closed" value="true" />
+      <created>1779037674594</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779037674595</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Atualizações">
+      <option name="closed" value="true" />
+      <created>1780173500179</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780173500180</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Atualizações">
+      <option name="closed" value="true" />
+      <created>1781465985910</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1781465985910</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Atualizações">
+      <option name="closed" value="true" />
+      <created>1781466137267</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1781466137267</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Amigo Secreto **(CRIAÇÃO)**" />
+    <MESSAGE value="Atualizações" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizações" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
