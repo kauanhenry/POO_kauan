@@ -20,7 +20,7 @@ public class TelaClienteSite extends JFrame {
     public TelaClienteSite(PedidoService pedidoService) {
         this.pedidoService = pedidoService;
 
-        setTitle("Açai Mania - Cardápio Online & Delivery");
+        setTitle("Açai Mania - Cardápio Online");
         setSize(850, 700);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);
@@ -33,13 +33,13 @@ public class TelaClienteSite extends JFrame {
         JPanel painelLogoTitulo = new JPanel(new FlowLayout(FlowLayout.LEFT, 15, 0));
         painelLogoTitulo.setOpaque(false);
 
-        int tamanhoLogo = 85;
+        int tamanhoLogo = 100;
         JLabel lblLogo = new JLabel();
         lblLogo.setPreferredSize(new Dimension(tamanhoLogo, tamanhoLogo));
         lblLogo.setHorizontalAlignment(SwingConstants.CENTER);
         lblLogo.setVerticalAlignment(SwingConstants.CENTER);
 
-        String caminhoDaImagem = "./asserts/img/logo.png";
+        String caminhoDaImagem = "./asserts/img/logo2.png";
         File arquivoImagem = new File(caminhoDaImagem);
 
         if (arquivoImagem.exists()) {
@@ -50,7 +50,7 @@ public class TelaClienteSite extends JFrame {
             int alturaOrig = imagemOriginal.getHeight(null);
 
             if (larguraOrig > 0 && alturaOrig > 0) {
-                int tamanhoCorte = 1100;
+                int tamanhoCorte = Math.min(larguraOrig, alturaOrig);
                 int xInicio = (larguraOrig - tamanhoCorte) / 2;
                 int yInicio = (alturaOrig - tamanhoCorte) / 2;
                 xInicio -= 100;
